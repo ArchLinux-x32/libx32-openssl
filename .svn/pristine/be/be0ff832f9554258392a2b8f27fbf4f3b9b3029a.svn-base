@@ -1,4 +1,4 @@
-# $Id: PKGBUILD 136591 2015-07-09 14:01:28Z foutrelis $
+# $Id$
 # Maintainer: Pierre Schmitz <pierre@archlinux.de>
 
 _pkgbasename=openssl
